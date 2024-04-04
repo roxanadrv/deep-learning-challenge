@@ -39,6 +39,8 @@ Efforts to optimize the model involved several strategies, each aimed at overcom
 
 The developed neural network model demonstrated promising results in predicting the success of funded projects for Alphabet Soup. However, the target accuracy of 75% remained unattained despite exhaustive optimization attempts. These efforts underscored the challenges in tuning deep learning models and the complexities of the dataset.
 
+As a recommendation for further exploration, considering alternative models such as Gradient Boosting Machines (GBMs) or Random Forest could offer different insights and possibly improve prediction accuracy. These models can handle non-linear relationships and interactions between features differently than neural networks, which might prove beneficial depending on the underlying patterns of the data. Additionally, ensemble methods that combine predictions from multiple models could also be explored to enhance predictive performance.
+
 
 
 
