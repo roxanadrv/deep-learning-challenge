@@ -26,6 +26,14 @@ The purpose of this analysis was to develop a deep learning model that could hel
 - **Target Model Performance:**
   - The initial model performance goal was set ambitively above 75% accuracy, a benchmark that reflects a strong predictive capability for Alphabet Soup's funding success evaluations. Despite utilizing a neural network architecture with 80 and 30 neurons in its hidden layers, this benchmark proved challenging to meet. The initial configurations, while laying a solid foundation for predictive modeling, did not achieve the aspirational target accuracy out of the gate.
 
+  
+- **Model Architecture Visualization:**
+  - ![Model Architecture](model_architecture.png)
+
+- **Model Training Performance:**
+  - ![Model Accuracy](model_accuracy.png)
+  - ![Model Loss](model_loss.png)
+
 ## Optimization Attempts
 
 Efforts to optimize the model involved several strategies, each aimed at overcoming limitations and enhancing accuracy:
